@@ -1,0 +1,151 @@
+h1{
+
+    font-family: Consolas;
+    color: violet;
+
+
+
+}
+body{
+    background-color: cyan;
+}
+p {
+    font-family: Consolas;
+}
+li{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.rainbow-text {
+  background: linear-gradient(
+    45deg,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+  /* Clip the background to the shape of the text */
+  -webkit-background-clip: text; /* For Webkit browsers like Chrome, Safari */
+  background-clip: text;
+  /* Make the text color transparent to reveal the background gradient */
+  -webkit-text-fill-color: transparent; /* For Webkit browsers */
+  color: transparent; /* Standard property */
+  /* Optional: Add basic styling for the text */
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+}
+#fei{
+    color:pink;
+    font-size:50px;
+}
+#mark{
+
+ color: rgb(136, 232, 19);
+
+}
+
+#atlas{
+    color: rgb(128, 128, 128);
+}
+
+#franklin{
+    color: rgb(129,32,67);
+}
+#laochen{
+    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Jebonnesa {
+    color: #9685d9; 
+    font-family: Arial;
+    font-size: 25px;
+
+}
+
+#isabelle{
+    color:lightseagreen;
+}
+  
+
+#kong{
+    color: lightgoldenrodyellow;
+}
+#dhruv{
+    color: white;
+}
+
+#max{
+    color:aqua;
+}
+
+#Jade{
+    color:aliceblue;
+}
+#kate{
+    color: aquamarine;
+}
+#Chen {
+    color: papayawhip;
+}
+
+#cindy{
+    color: purple;
+}
+#cc{
+    color: beige;
+}
+
+#su{
+    color: #ffbcd9;
+}
+
+#lz{
+    color:rgb(231, 123, 123);
+}
+#W {
+    color : green;
+}
+#lyg {
+    color: #5f05f0
+    ;
+}
+#VC {
+    color: gold;
+}
+
+#4352 {
+    color: blue;
+}
+#lucy {
+    color: plum;
+}
+
+#bigboss{
+    color: green;
+}
+
+#ly{
+    color: rgb(250, 227, 237);
+
+}
+
+#Lavinia {
+    color: pink;
+}
+
+#Sophie{
+
+ color: magenta;
+
+}
+
+#lein{
+    color: brown
+}
